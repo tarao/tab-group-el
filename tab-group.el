@@ -180,7 +180,7 @@ This variable must be set before loading tab-group.el."
   :group 'tab-group)
 
 (defface tab-group:scroll-button:disabled
-  '((t (:inherit tab-group:tab:scroll-button :foreground "gray")))
+  '((t (:inherit tab-group:scroll-button :foreground "gray")))
   "Face of disabled scroll button."
   :group 'tab-group)
 
